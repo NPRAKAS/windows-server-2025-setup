@@ -10,7 +10,7 @@ This project documents the **initial configuration of Windows Server 2025** in m
 - Basic hardening with PowerShell
 
 ## 📘 Full Lab Guide:
-👉 [initial-setup.md](initial-setup.docx)
+👉 [initial-setup.docx](initial-setup.docx)
 
 ## 📷 Screenshots:
 All images are stored in the `screenshots/` folder and referenced in the markdown file.
